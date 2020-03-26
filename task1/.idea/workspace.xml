@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2d7a90c-c75f-4639-92a9-c0b9a39f371e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Zd0zoGDs1eiRye2prgrw3kTSzH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="SCSS&#10;SASS" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2d7a90c-c75f-4639-92a9-c0b9a39f371e" name="Default Changelist" comment="" />
+      <created>1585153928831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585153928831</updated>
+      <workItem from="1585153931596" duration="171000" />
+      <workItem from="1585154131785" duration="4371000" />
+      <workItem from="1585160205982" duration="11309000" />
+      <workItem from="1585198472249" duration="9387000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585198811823">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1585198811823" />
+    <state x="293" y="235" width="854" height="615" key="EditFileWatcherDialog" timestamp="1585198993875">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="293" y="235" width="854" height="615" key="EditFileWatcherDialog/0.0.1440.900@0.0.1440.900" timestamp="1585198993875" />
+    <state x="320" y="208" key="scopes" timestamp="1585198977376">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="208" key="scopes/0.0.1440.900@0.0.1440.900" timestamp="1585198977376" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1585207560264">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1585207560264" />
+  </component>
+</project>

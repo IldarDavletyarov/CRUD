@@ -1,0 +1,29 @@
+.card {
+  position: absolute;
+  z-index: 10;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
+  top: 10px;
+  right: 10px; }
+
+table {
+  text-align: center; }
+
+button {
+  width: 90%; }
+
+.btn-group {
+  width: 90%; }
+
+input {
+  width: 100%;
+  margin: 1px; }
+
+.submit {
+  margin-top: 10px; }
+
+.submit {
+  width: 90%; }
+
+/*# sourceMappingURL=style.css.map */
