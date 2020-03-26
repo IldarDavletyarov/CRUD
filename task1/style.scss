@@ -1,29 +1,53 @@
-
+$perOffsetForm: 3%;
+$perWidthContent: 90%;
+@mixin margin {
+  margin-left: auto;
+  margin-right: auto;
+}
 .card {
   position: absolute;
   z-index: 10;
-  margin-left: auto;
-  margin-right: auto;
+  @include margin;
   padding: 30px;
-  top: 10px;
-  right: 10px;
+  top: $perOffsetForm;
+  right: $perOffsetForm;
 }
-table{
+
+table {
   text-align: center;
 }
+
+label {
+  @include margin;
+}
+
+small {
+  @include margin;
+}
+
 button {
-   width: 90%;
+  width: $perWidthContent;
+  @include margin;
 }
-.btn-group{
-   width: 90%;
- }
-input{
+
+.btn-group {
+  width: $perWidthContent;
+  @include margin;
+}
+
+.form-group {
+  width: $perWidthContent;
+  @include margin;
+}
+
+input {
   width: 100%;
-  margin: 1px;
+  margin-top: 1px;
+  @include margin;
 }
-.submit{
-  margin-top: 10px;
-}
-.submit{
-  width: 90%;
+
+.submit {
+  margin-top: 5px;
+  @include margin;
+  width: $perWidthContent;
 }

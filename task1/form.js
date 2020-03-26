@@ -28,10 +28,13 @@ function Form(options) {
     }
 
     function addTitle() {
-        var titleElem = document.createElement('h2');
-        elem.appendChild(titleElem);
+        let formGroup = document.createElement("div");
+        formGroup.className = "form-group";
+        let titleElem = document.createElement('h2');
         titleElem.className = "title";
         titleElem.textContent = self.options.title;
+        formGroup.appendChild(titleElem);
+        elem.appendChild(formGroup);
     }
 
     function addItem(titleName, name,holder) {
